@@ -8,6 +8,6 @@ for i in range(0,n-1):
 average = total/n
  
 if average > 140:
-    print("Low risk")
-else:
     print("High risk")
+else:
+    print("Low risk")
