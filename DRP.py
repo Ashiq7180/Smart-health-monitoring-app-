@@ -1,7 +1,7 @@
 total = 0
 n = int(input("Enter number on blood sugar readings: "))
 
-for i in range(0,n-1):
+for i in range(n):
         sugar = int(input("Enter blood sugar value"))
         total = total + sugar
 
