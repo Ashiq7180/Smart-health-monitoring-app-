@@ -1,1 +1,1 @@
-# Smart-health-monitoring-app-
+The Smart Health Monitoring App is aimed to help users anticipate the possible health risks including diabetes and heart diseases based on the analysis of personal health data, including age, body mass index (BMI), blood sugar level, and blood pressure. The main goal of this system is the possibility to watch the risk signs and health suggestions early and act to prevent negative changes and attain a better quality of life.
